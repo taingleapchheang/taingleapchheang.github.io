@@ -23,6 +23,7 @@
 
 .descriptions {
     font-size: 18px;
+    font-family: monospace;
     color: rgb(139 110 110);
     display: block;
     text-indent: 3.5em;
